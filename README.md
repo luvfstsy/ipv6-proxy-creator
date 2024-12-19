@@ -55,7 +55,7 @@ cp src/3proxy /usr/local/etc/3proxy/bin/
 ```bash
 cd
 cd ipv6-proxy-creator
-bash install.sh
+install.sh
 ```
 
 #### 6. **生成代理**

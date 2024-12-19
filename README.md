@@ -51,8 +51,10 @@ cp src/3proxy /usr/local/etc/3proxy/bin/
 ---
 
 #### 5. **配置 `ipv6-proxy-creator`**
-进入项目目录（cd ipv6-proxy-creator），运行安装脚本：
+进入项目目录，运行安装脚本：
 ```bash
+cd
+cd ipv6-proxy-creator
 bash install.sh
 ```
 
